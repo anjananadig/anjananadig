@@ -19,7 +19,7 @@
 
 ## 🔭 Current Work
 
-- Working on **RoC Company Master Data Analysis**
+- Worked on **RoC Company Master Data Analysis** as an Intern
 - Cleaning unstructured address data and transforming it using SQL
 - Visualizing patterns using **Power BI**
 
@@ -47,7 +47,8 @@
 
 - Building clean, clear, and actionable visuals that help others make informed decisions  
 - Telling stories through data visualizations  
-- Exploring data with curiosity and creativity
+- Exploring data 
+- Music and creativity.
 
 ---
 
